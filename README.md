@@ -566,11 +566,3 @@ The repository is designed to support reproducible experimentation rather than r
 
 > **Important:** The code defines and supports the complete 30-scenario × 50-repetition experiment. Any claims about measured improvement between baseline and adaptive policies should be calculated from the generated experimental results rather than assumed beforehand.
 
----
-
-## 👨‍💻 Author
-
-**Krushna Tekane**
-
-BTech Computer Science Engineering
-Interested in Software Development, AI/ML, Simulation, and Research-Oriented Systems
