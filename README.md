@@ -564,5 +564,4 @@ ResiliSim currently provides an end-to-end workflow for:
 
 The repository is designed to support reproducible experimentation rather than relying on predetermined performance improvements.
 
-> **Important:** The code defines and supports the complete 30-scenario × 50-repetition experiment. Any claims about measured improvement between baseline and adaptive policies should be calculated from the generated experimental results rather than assumed beforehand.
 
