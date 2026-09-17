@@ -537,31 +537,4 @@ The documentation is intended to keep the experimental design separate from the 
 
 ---
 
-## 🔮 Future Directions
-
-Potential extensions include:
-
-* More realistic network topologies
-* Additional adaptive decision policies
-* Multi-objective policy optimization
-* Reinforcement-learning-based response strategies
-* More detailed resource constraints
-* Dynamic dependency graphs
-* Confidence intervals and effect-size analysis
-* Scenario optimization and automated stress testing
-* Larger-scale Monte Carlo experiments
-* More advanced dashboard analytics
-
----
-
-## 📌 Project Status
-
-**Status: Functional research prototype**
-
-ResiliSim currently provides an end-to-end workflow for:
-
-**Scenario Generation → Stochastic Simulation → Policy Comparison → Statistical Analysis → Interactive Visualization**
-
-The repository is designed to support reproducible experimentation rather than relying on predetermined performance improvements.
-
 
